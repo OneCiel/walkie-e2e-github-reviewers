@@ -1,2 +1,2 @@
 # A small file that test pull requests change.
-counter: 0
+counter: 1
